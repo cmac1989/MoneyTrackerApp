@@ -1,18 +1,18 @@
-# Money Tracker App
-<img width="797" alt="Screenshot 2025-02-23 at 11 30 11 AM" src="https://github.com/user-attachments/assets/07c45424-decb-4490-924d-420ad198dcc6" />
+# Renova Ecommerce Website
+<img width="1208" alt="Screenshot 2025-02-23 at 1 16 22 PM" src="https://github.com/user-attachments/assets/48460c6b-daad-44db-8065-55db8f25a48f" />
+
 
 ## Description
 MoneyTrackerApp is a software program that allows users to track their finances in an effective and visually pleasing manner. Once signed up users can add, update and delete transactions. This program even allows enough flexibility for users to add and delete their own unique categories for future transactions. Follow the **Getting Started Guide** below to get this app up and running!
 
 
 ### Technology
-- JavaFX
-- Gradle Version 20.0.2
-- CSS
-- MySQL
+- React
+- Node.js | Express.js
+- MySQL | Sequelize
 
 ## Getting Started Guide
-1. Make sure to have latest version of Intellij installed
+1. 
 
 2. Open terminal(Mac/Linux) or git Bash(Windows)
 
@@ -41,6 +41,7 @@ MoneyTrackerApp is compatible with Windows/Mac/Linux operating systems.
 |Cameron McRae|cmcrae1989|w0796224@myscc.ca|MAD|001|
 |Wania Sharif|wania-sharif|w0842810@myscc.ca|MAD|001|
 |George Secen|georgesecen|w0533223@myscc.ca|MAD|001|
+|Asad Bashir|||MAD|001|
 
 ## License
 Copyright (c) 2014 DefinitelyTyped
@@ -66,5 +67,4 @@ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
-## Acknowledgement
-Special thanks to *Câi Filiault* for his lessons, advice and guidance thoughout the last year.
+## Acknowledgements
