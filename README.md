@@ -2,37 +2,17 @@
 <img width="1208" alt="Screenshot 2025-02-23 at 1 16 22 PM" src="https://github.com/user-attachments/assets/48460c6b-daad-44db-8065-55db8f25a48f" />
 
 
-## Description
-MoneyTrackerApp is a software program that allows users to track their finances in an effective and visually pleasing manner. Once signed up users can add, update and delete transactions. This program even allows enough flexibility for users to add and delete their own unique categories for future transactions. Follow the **Getting Started Guide** below to get this app up and running!
+## Renova – Elevate Your Streetwear Game
+Renova is your go-to destination for cutting-edge streetwear that keeps you ahead of the trends. We bring you the freshest styles, blending modern fashion with urban culture to help you express your individuality. Whether you're looking for statement pieces, everyday essentials, or limited-edition drops, Renova has you covered. Stay fresh, stay bold—shop Renova and redefine your style.
 
 
-### Technology
+## Technology
 - React
 - Node.js | Express.js
 - MySQL | Sequelize
 
-## Getting Started Guide
-1. 
-
-2. Open terminal(Mac/Linux) or git Bash(Windows)
-
-3. Navigate to preferred project location. **user/IdeaProjects recommended**
-   -     cd IdeaProjects
-
-4. Clone repository
-   -     git clone https://github.com/cmac1989/MoneyTrackerApp.git
-
-5. Navigate to project directory using command
-   -     cd MoneyTrackerApp
-
-6. **SSH Tunnel required -- Not authorized to provide shell script**
-
-7. Run Intellij and open project
-
-8. Ensure that you're using Gradle version 20.0.2
-
-## Compatibility
-MoneyTrackerApp is compatible with Windows/Mac/Linux operating systems.
+## Hosting URL
+Website is under construction, but as soon as it is complete a link to the finished product will be posted here
 
 ## Authors
 
@@ -43,28 +23,30 @@ MoneyTrackerApp is compatible with Windows/Mac/Linux operating systems.
 |George Secen|georgesecen|w0533223@myscc.ca|MAD|001|
 |Asad Bashir|||MAD|001|
 
-## License
-Copyright (c) 2014 DefinitelyTyped
+## License Agreement
 
-Permission is hereby granted, free of charge, to any person
-obtaining a copy of this software and associated documentation
-files (the "Software"), to deal in the Software without
-restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the
-Software is furnished to do so, subject to the following
-conditions:
+1. Acceptance of Terms
+By accessing or using Renova ("Website"), you agree to comply with and be bound by these Terms of Use. If you do not agree with these terms, you are prohibited from using this Website.
 
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
+2. Prohibited Use
+You are strictly prohibited from:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
-OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
-HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+- Accessing or using this Website without prior authorization.
+- Copying, modifying, distributing, or reproducing any content without express permission.
+- Engaging in any activity that violates applicable laws or infringes on the rights of Renova.
+- Using the Website for any commercial, unlawful, or fraudulent purposes.
 
-## Acknowledgements
+3. Restricted Access
+Renova reserves the right to deny access to any user for any reason, including but not limited to suspected violations of these terms. Unauthorized access or attempts to bypass security measures may result in legal action.
+
+4. Intellectual Property
+All content, trademarks, logos, and materials on this Website are the exclusive property of Renova. Unauthorized use is strictly prohibited and may result in legal consequences.
+
+5. Changes to Terms
+Renova reserves the right to modify or update these Terms at any time. Continued use of the Website after changes are posted constitutes acceptance of the revised terms.
+
+6. Governing Law
+These Terms are governed by and construed in accordance with Canada/Ontario laws. Any disputes shall be resolved in the appropriate courts of Ontario.
+
+7. Contact Information
+For any inquiries regarding these Terms, please contact us at fstcam@outlook.com.
