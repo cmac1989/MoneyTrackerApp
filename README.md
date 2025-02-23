@@ -1,5 +1,5 @@
 # Money Tracker App
-<img width="1277" alt="Screenshot 2024-11-28 at 12 48 08 PM" src="https://github.com/user-attachments/assets/bdd2f802-359d-4145-8eab-2d7484241f39">
+<img width="797" alt="Screenshot 2025-02-23 at 11 30 11 AM" src="https://github.com/user-attachments/assets/07c45424-decb-4490-924d-420ad198dcc6" />
 
 ## Description
 MoneyTrackerApp is a software program that allows users to track their finances in an effective and visually pleasing manner. Once signed up users can add, update and delete transactions. This program even allows enough flexibility for users to add and delete their own unique categories for future transactions. Follow the **Getting Started Guide** below to get this app up and running!
@@ -13,30 +13,23 @@ MoneyTrackerApp is a software program that allows users to track their finances 
 
 ## Getting Started Guide
 1. Make sure to have latest version of Intellij installed
-2. Clone Repository from https://github.com/cmcrae1989/MoneyTrackerApp/tree/development
 
-https://github.com/user-attachments/assets/eb195c18-630e-48fa-a6d7-8653e2408106
+2. Open terminal(Mac/Linux) or git Bash(Windows)
 
-3. Open terminal(Mac/Linux) or git Bash(Windows)
+3. Navigate to preferred project location. **user/IdeaProjects recommended**
+   -     cd IdeaProjects
 
+4. Clone repository
+   -     git clone https://github.com/cmac1989/MoneyTrackerApp.git
 
-4. Navigate to preferred project location. **user/IdeaProjects recommended**
-  <img width="397" alt="Screenshot 2024-12-03 at 9 10 25 AM" src="https://github.com/user-attachments/assets/cef99f69-30fa-4c72-8215-5804e4da0515">
+5. Navigate to project directory using command
+   -     cd MoneyTrackerApp
 
-5. Run command **git clone ht<span>tps://</span>github.com/cmcrae1989/MoneyTrackerApp.git**
-
-<img width="711" alt="Screenshot 2024-12-03 at 9 11 40 AM" src="https://github.com/user-attachments/assets/24e5f42e-71f0-4566-9f1a-689f4ffbc078">
-
-6. Navigate to project directory using command **cd MoneyTrackerApp**
-<img width="701" alt="Screenshot 2024-12-03 at 9 24 17 AM" src="https://github.com/user-attachments/assets/a09990f7-7bcb-438b-b114-4622702b56f3">
+6. **SSH Tunnel required -- Not authorized to provide shell script**
 
 7. Run Intellij and open project
 
-
-https://github.com/user-attachments/assets/ac86126d-7566-4fb5-b11c-fc9e51b73a55
-
-
-9. Ensure that you're using Gradle version 20.0.2
+8. Ensure that you're using Gradle version 20.0.2
 
 ## Compatibility
 MoneyTrackerApp is compatible with Windows/Mac/Linux operating systems.
